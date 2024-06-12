@@ -6,13 +6,50 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
-    guid: c850ee8c3b14cc8459e7e186857cf567
+    path: Assets/Scenes/NewIdleMenu.unity
+    guid: ec376ec1bd967ed44a460142fe79455f
   - enabled: 1
     path: Assets/Scenes/Minigames/MaterialCollectMiniGames.unity
     guid: 8a7c13fb4d5fe1349be324c25fcf04d0
+  - enabled: 1
+    path: Assets/Scenes/Minigames/RotateDashMinigame/RotateDash.unity
+    guid: 5814cda763a87bc469dfd885c6ffa8b4
+  - enabled: 1
+    path: Assets/Scenes/Minigames/RotateDashMinigame/RotateDashMenu.unity
+    guid: 956ab49d52239524294c51d36740967d
+  - enabled: 1
+    path: Assets/Scenes/Minigames/MiniGolf/MainMenuMiniGolf.unity
+    guid: a5ca199f6c8e5d242bd8ff56f9427313
+  - enabled: 1
+    path: Assets/Scenes/Minigames/MiniGolf/Levels/Level01.unity
+    guid: 9e2bc8a2e2a51c94bb6a8f04f1ec29af
+  - enabled: 1
+    path: Assets/Scenes/Minigames/MiniGolf/Levels/Level02.unity
+    guid: f0eb5edd8a655ef42b3e2fd3ea1aff93
+  - enabled: 1
+    path: Assets/Scenes/Minigames/MiniGolf/Levels/Level03.unity
+    guid: 133ba7e2a6821f44bb52d2fa48111d2e
+  - enabled: 1
+    path: Assets/Scenes/Minigames/MiniGolf/Levels/Level04.unity
+    guid: dba267c0b3d6b034f9ec045522b84003
+  - enabled: 1
+    path: Assets/Scenes/Minigames/MiniGolf/Levels/Level05.unity
+    guid: e50ef28abf53e854f9c952369a0a4ad4
+  - enabled: 1
+    path: Assets/Scenes/Minigames/BallSaver.unity
+    guid: 960e6065ed7858941893c38841cb2fe5
+  - enabled: 1
+    path: Assets/Scenes/Minigames/BlockDodge.unity
+    guid: 80e0d65f8fe5c7e4e845d65ece23385a
+  - enabled: 1
+    path: Assets/Scenes/Minigames/SnakeMaterialCollectable.unity
+    guid: 15c2f85ef9408d741b0499244d3a177b
   m_configObjects:
+    com.unity.adaptiveperformance.google.android.provider_settings: {fileID: 11400000,
+      guid: 43f9f2e95aaa4c142824701b210e4dd4, type: 2}
     com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: e1382d6582c16524690b4c9bbf9a7710,
       type: 2}
+    com.unity.adaptiveperformance.samsung.android.provider_settings: {fileID: 11400000,
+      guid: e5e58f40880694b4ab85f4cef242c1b8, type: 2}
     com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000,
       guid: 37ab5f03281e247489877c05a3b93fb0, type: 2}

@@ -3,7 +3,14 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Material
+  - Danger
+  - Score
+  - Hole
+  - Destroy
+  - Obstacle
+  - DestroyWall
   layers:
   - Default
   - TransparentFX
